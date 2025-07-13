@@ -1,0 +1,2 @@
+text = "banana"
+print("Number of letters:", len(text))
